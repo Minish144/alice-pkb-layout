@@ -5,4 +5,4 @@
 
 ## MacOS layout
 ![Layer 0](https://i.imgur.com/g5F6ZVX.png)
-2 other layers are the same as for windows
+2 other layers are the same as for windows'
